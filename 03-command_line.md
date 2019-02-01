@@ -20,16 +20,16 @@ Here's a list of items with which you should be familiar:
 
 Make a cheat sheet for yourself: a list of at least **ten** commands and what they do.  (Use the 8 items above and add a couple of your own.)  
 
-* show current working directory path: 'dirs'
-* creating a directory: mkdir <directory>
-* deleting a directory: rm -r <directory>
-* creating a file using `touch` command: touch <myfile>
-* deleting a file: rm <myfile>
-* renaming a file: mv <oldname> <newname>
-* listing hidden files: ls -a
-* copying a file from one directory to another: cp <myfile> <other_directory>
-* open manuals for a command: man <command> (info also works)
-* change directory: cd <new directory> (cd - will take you to the current directory's parent, cd -- takes you to root)
+* show current working directory path: `dirs`
+* creating a directory: `mkdir <directory>`
+* deleting a directory: `rm -r <directory>`
+* creating a file using `touch` command: `touch <myfile>`
+* deleting a file: `rm <myfile>`
+* renaming a file: `mv <oldname> <newname>`
+* listing hidden files: `ls -a`
+* copying a file from one directory to another: `cp <myfile> <other_directory>`
+* open manuals for a command: `man <command>` (info also works)
+* change directory: `cd <new directory>` (`cd -` will take you to the current directory's parent, `cd --` takes you to root)
 
 ---
 
