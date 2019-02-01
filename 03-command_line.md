@@ -20,22 +20,30 @@ Here's a list of items with which you should be familiar:
 
 Make a cheat sheet for yourself: a list of at least **ten** commands and what they do.  (Use the 8 items above and add a couple of your own.)  
 
-> > REPLACE THIS TEXT WITH YOUR RESPONSE
+* show current working directory path: dirs
+* creating a directory: mkdir <directory>
+* deleting a directory: rm -r <directory>
+* creating a file using `touch` command: touch <myfile>
+* deleting a file: rm <myfile>
+* renaming a file: mv <oldname> <newname>
+* listing hidden files: ls -a
+* copying a file from one directory to another: cp <myfile> <other_directory>
+* open manuals for a command: man <command> (info also works)
+* change directory: cd <new directory> (cd - will take you to the current directory's parent, cd -- takes you to root)
 
 ---
 
 ### Q2.  List Files in Unix   
 
 What do the following commands do:  
-`ls`  
-`ls -a`  
-`ls -l`  
-`ls -lh`  
-`ls -lah`  
-`ls -t`  
-`ls -Glp`  
+`ls`       lists directory contents
+`ls -a`    list directory contects to include entries whose name begins with a dot (.)
+`ls -l`    list in long format; a total sum for all file sizes is output on a line before the list
+`ls -lh`   use memory unit suffixes in order to reduce the number of digits to 3 or less using base 2 for sizes
+`ls -lah`  (same as above) but include entries whose name beings with a dot (.)
+`ls -t`    sort by time modified (most recently modified first)
+`ls -Glp`  list in long format, enable colorized output, and write after a slash after each filename if a directory
 
-> > REPLACE THIS TEXT WITH YOUR RESPONSE
 
 ---
 
