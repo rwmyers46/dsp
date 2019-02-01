@@ -36,7 +36,7 @@ Make a cheat sheet for yourself: a list of at least **ten** commands and what th
 ### Q2.  List Files in Unix   
 
 What do the following commands do:  
-`ls`       lists directory contents
+`ls`       >> lists directory contents
 `ls -a`    list directory contects to include entries whose name begins with a dot (.)
 `ls -l`    list in long format; a total sum for all file sizes is output on a line before the list
 `ls -lh`   use memory unit suffixes in order to reduce the number of digits to 3 or less using base 2 for sizes
