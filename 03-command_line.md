@@ -52,15 +52,17 @@ What do the following commands do:
 
 Explore these other [ls options](http://www.techonthenet.com/unix/basic/ls.php) and pick 5 of your favorites:
 
-> > REPLACE THIS TEXT WITH YOUR RESPONSE
-
+* `ls -c`    lists file by timestamp
+* `ls -R`    lists all subdirectories as well
+* `ls -1`    displays file on 1 line each
+* `ls -m`    displays names as comma-separated list
+* `ls -F`    flags filenames in display with /
 ---
 
 ### Q4.  Xargs   
 
 What does `xargs` do? Give an example of how to use it.
 
-> > REPLACE THIS TEXT WITH YOUR RESPONSE
-
+`xargs` is used to build and execute command lines from standard input, which enables users to build recursive operations for an execution pipleline. One example is using 'xargs' with the 'find' and 'rm' commands to find files in the temp directory over a month old and delete them: `find /tmp -mtime +30 | xargs rm`
  
 
