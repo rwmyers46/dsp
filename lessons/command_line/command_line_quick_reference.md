@@ -104,6 +104,8 @@ $ cd ~
 
 What does this do?
 
+>> Answer: changes directory to home.
+
 ##### `pwd`
 "Print (or Present) Working Directory", checks the directory that you're currently in and prints it out for you.  All commands run from the directory that you're in.
 ```
