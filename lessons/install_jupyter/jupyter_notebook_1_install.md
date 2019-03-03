@@ -57,3 +57,4 @@ reshama$
 You can try out Jupyter on a browser without installing it.  
 https://try.jupyter.org/
 
+* Lesson Completed
