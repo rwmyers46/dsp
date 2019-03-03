@@ -363,6 +363,8 @@ $ du -d 1 ~ |  sort -n -r | head
 
 What does this do?
 
+> Answer: check the disk usage of the first file in home directory, sort the contents by number of lines, and open the file at the top
+
 **TIP:** You can use pipes to chain together almost any number of commands!
 
 ##### `>`, `>>`, and `<`
@@ -440,6 +442,8 @@ What about for this one?
 ```
 drwx------   4 paulburkard  staff   136B Jun  6 10:16 Applications
 ```
+> Answer: Only `paulburkard` has read, write, and exectute rights.
+
 #### Changing Permissions
 Now that you understand the access model, here are a few commands that allow you to change the permissions.
 
