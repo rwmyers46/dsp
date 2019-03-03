@@ -198,6 +198,7 @@ ls -lh
 ```
 
 > What changed?
+> Answer: the file size is listed in KB vice bytes
 
 If instead copying we just want to change the name of a file, we can do:
 
