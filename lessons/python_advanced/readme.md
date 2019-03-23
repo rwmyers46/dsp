@@ -38,3 +38,5 @@ The students will:
 * Know what pickling is
 * Understand how to dump/load an object
 * Be familiar with how pickle can fit into their workflow
+
+>> Lesson Complete
