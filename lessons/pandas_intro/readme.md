@@ -25,3 +25,5 @@ By the end of this lecture, the students should know:
    * How to create masks and filter data
    * How to deal with NULL values, and the difference between NaN and None values
    * How to groupby and sort in pandas
+
+>> Lesson Complete
