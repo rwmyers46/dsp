@@ -24,3 +24,4 @@ For those looking for a more in-depth treatment of linear algebra, you should ch
 
 
 
+>> Lesson Complete
